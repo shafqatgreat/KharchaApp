@@ -41,6 +41,13 @@ The app focuses on **simplicity + powerful analytics**, making it suitable for e
 
 ---
 
+### 🛍️ Live Shopping Mode
+
+* Maintain sLive shopping lists* that update as you buy
+
+
+---
+
 ### 📦 Item Tracking
 
 * Maintain structured item data (name, Urdu, Roman, category, image)
