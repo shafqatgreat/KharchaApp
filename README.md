@@ -43,7 +43,7 @@ The app focuses on **simplicity + powerful analytics**, making it suitable for e
 
 ### 🛍️ Live Shopping Mode
 
-* Maintain sLive shopping lists* that update as you buy
+* Maintains Live shopping lists that update as you buy
 
 
 ---
