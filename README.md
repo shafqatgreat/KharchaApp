@@ -7,6 +7,7 @@ Take charge of your daily spending with just one tap. A smart personal expense m
 ---
 
 ## 📲 Download Kharcha App now: 
+# Google Play Store
 https://play.google.com/store/apps/details?id=com.shafqat.kharcha
 
 
