@@ -1,6 +1,7 @@
 
-![Main Interface](ic_launcher.png) # 📱 KharchaApp — Smart way to track every rupee
-
+# 📱 KharchaApp — Smart way to track every rupee
+![Main Interface](ic_launcher.png)
+---
 Take charge of your daily spending with just one tap. A smart personal expense management application built with Flutter, designed to help users efficiently track, analyze, and manage their daily spending with powerful insights and automation.
 
 
